@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali Jawed</h1>
 
-<!--
-**alijawed0110-coder/alijawed0110-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Entry-Level QA Engineer from Pakistan 🇵🇰</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔍 Passionate about Software Testing
+- 🧪 Manual Testing
+- 🤖 Basic Automation using Playwright
+- 📋 Writing Test Cases & Bug Reports
+- 🌐 Learning API Testing
+
+---
+
+## 🛠 Skills
+
+- Manual Testing
+- Bug Reporting
+- Test Case Writing
+- Playwright
+- JavaScript Basics
+- HTML & CSS Basics
+
+---
+
+## 📂 Projects
+
+### ✅ Manual Testing Project
+- Functional Testing
+- UI Testing
+- Bug Reports
+- Test Cases
+
+### ✅ Playwright Automation
+- Login Test
+- Form Validation Testing
+
+---
+
+## 📚 Currently Learning
+
+- API Testing
+- Advanced Playwright
+- Automation Frameworks
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Add Your LinkedIn
+- Email: yourmail@gmail.com
+
+---
+
+⭐ Improving my QA & Automation skills every day.
